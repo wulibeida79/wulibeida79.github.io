@@ -1,4 +1,4 @@
-var version = "24.01.03";
+var version = "24.02.01";
 
 var seminars = 
  [
@@ -1259,8 +1259,7 @@ var seminars =
             "Speaker": "赵良，张之杭，李颖红，周中汉",
             "Title": "八十里路云和月--漫谈全马/半马长跑运动",
             "Image": "img/marathon.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "Hwealth"
         },
         {
             "Date": "2/23/24",
@@ -1291,6 +1290,22 @@ var seminars =
             "Speaker": "陈焕",
             "Title": "自驾坦克500越野无人区",
             "Image": "img/tank500.jpg",
+            "Classification": "Upcoming",
+            "StartTime": "7:30 PM"
+        },
+        {
+            "Date": "4/5/24",
+            "Speaker": "赵书来",
+            "Title": "Musical Beatuies in Miraculous Unison 名曲欣赏： 莫扎特第41号交响曲",
+            "Image": "img/mozart_no41.jpg",
+            "Classification": "Upcoming",
+            "StartTime": "7:30 PM"
+        },
+        {
+            "Date": "4/19/24",
+            "Speaker": "刘钧",
+            "Title": "攀岩运动介绍",
+            "Image": "img/rock_climbing.jpg",
             "Classification": "Upcoming",
             "StartTime": "7:30 PM"
         }
