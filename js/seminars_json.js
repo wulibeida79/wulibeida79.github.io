@@ -685,7 +685,7 @@ var seminars =
             "Speaker": "林锦云",
             "Title": "退休需要多少钱？",
             "Image": "img/retirement_and_money.jpg",
-            "Classification": "Hwealth"
+            "Classification": "HWealth"
         },
         {
             "Date": "3/3/22",
@@ -1232,7 +1232,7 @@ var seminars =
             "Speaker": "林锦云",
             "Title": "退休财管：美联储高利率环境下的益好投资产品",
             "Image": "img/high_rate_investment.jpg",
-            "Classification": "Hwealth"
+            "Classification": "HWealth"
         },
         {
             "Date": "12/15/23",
@@ -1259,7 +1259,7 @@ var seminars =
             "Speaker": "赵良，张之杭，李颖红，周中汉",
             "Title": "八十里路云和月--漫谈全马/半马长跑运动",
             "Image": "img/marathon.jpg",
-            "Classification": "Hwealth"
+            "Classification": "HWealth"
         },
         {
             "Date": "2/23/24",
