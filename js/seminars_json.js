@@ -1,4 +1,4 @@
-var version = "24.02.01";
+var version = "24.02.02";
 
 var seminars = 
  [
@@ -1265,7 +1265,7 @@ var seminars =
             "Date": "2/23/24",
             "Speaker": "马京昇 （Moderator）",
             "Title": "退休生活论坛（4）",
-            "Image": "img/retirement.jpg",
+            "Image": "img/retirement_surfing.jpg",
             "Classification": "Upcoming",
             "StartTime": "7:30 PM"
         },
