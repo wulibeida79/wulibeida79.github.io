@@ -1,7 +1,7 @@
-var version = "24.02.02";
+var version = "24.02.03";
 
 var seminars = 
- [
+[
         {
             "Date": "6/22/20",
             "Speaker": "贺敏",
@@ -685,7 +685,7 @@ var seminars =
             "Speaker": "林锦云",
             "Title": "退休需要多少钱？",
             "Image": "img/retirement_and_money.jpg",
-            "Classification": "HWealth"
+            "Classification": "Hwealth"
         },
         {
             "Date": "3/3/22",
@@ -1259,15 +1259,16 @@ var seminars =
             "Speaker": "赵良，张之杭，李颖红，周中汉",
             "Title": "八十里路云和月--漫谈全马/半马长跑运动",
             "Image": "img/marathon.jpg",
-            "Classification": "HWealth"
+            "Classification": "HWealth",
+            "Slide": "https://docs.google.com/presentation/d/1d8KrxtHYfhcrGPgJhYQmyWVBy1dNUhrP/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true"
         },
         {
             "Date": "2/23/24",
-            "Speaker": "马京昇 （Moderator）",
+            "Speaker": "马京昇 , 吴镭， 张之杭",
             "Title": "退休生活论坛（4）",
-            "Image": "img/retirement_surfing.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Image": "img/retirement.jpg",
+            "Classification": "Experience",
+            "Slide": "https://drive.google.com/file/d/1MumJ_IiICBUodOfEF4eltzCy3WMhClVA/view?usp=sharing"
         },
         {
             "Date": "3/1/24",
@@ -1309,4 +1310,4 @@ var seminars =
             "Classification": "Upcoming",
             "StartTime": "7:30 PM"
         }
-    ];
+    ]
