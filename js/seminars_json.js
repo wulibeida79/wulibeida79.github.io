@@ -1,4 +1,4 @@
-var version = "24.02.03";
+var version = "24.04.02";
 
 var seminars = 
 [
@@ -1275,39 +1275,70 @@ var seminars =
             "Speaker": "甘舒",
             "Title": "Climb Mount Kilimanjaro",
             "Image": "img/kilimanjaro.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "Hobby",
+            "Slide": "https://drive.google.com/file/d/1O8YxY0NEY3oSt1jjRKhu7ev9y_P1hDEm/view?usp=sharing"
         },
         {
             "Date": "3/8/24",
             "Speaker": "徐佩容",
             "Title": "退休旅行生活",
             "Image": "img/retirement_travel.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "Experience",
+            "Slide": "https://drive.google.com/file/d/13HqoqZEj7c2K4N3YnQBpKt-btLXjDJ9x/view?usp=sharing"
         },
         {
             "Date": "3/15/24",
             "Speaker": "陈焕",
             "Title": "自驾坦克500越野无人区",
             "Image": "img/tank500.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "Hobby",
+            "Slide": "https://drive.google.com/file/d/1bH1D6sClSYLXAI14ZDy1gtnJSwano1kR/view?usp=sharing"
         },
         {
             "Date": "4/5/24",
             "Speaker": "赵书来",
             "Title": "Musical Beatuies in Miraculous Unison 名曲欣赏： 莫扎特第41号交响曲",
             "Image": "img/mozart_no41.jpg",
+            "Classification": "Hobby",
+            "Slide": "https://drive.google.com/file/d/1AhHZViX0sZFYuM125PicOjI8jngp5TOW/view?usp=sharing"
+        },
+        {
+            "Date": "4/26/24",
+            "Speaker": "刘钧",
+            "Title": "攀岩运动介绍",
+            "Image": "img/rock_climbing.jpg",
+            "Classification": "Hobby",
+            "Slide": "https://drive.google.com/file/d/17AR1gvuBHuRLVQsuyF7kfQ0avA1EVOkG/view?usp=sharing"
+        },
+        {
+            "Date": "5/10/24",
+            "Speaker": "张越",
+            "Title": "好山好水 8 Fall Colors： New England",
+            "Image": "img/fall_colors_new_england.jpg",
             "Classification": "Upcoming",
             "StartTime": "7:30 PM"
         },
         {
-            "Date": "4/19/24",
-            "Speaker": "刘钧",
-            "Title": "攀岩运动介绍",
-            "Image": "img/rock_climbing.jpg",
+            "Date": "5/24/24",
+            "Speaker": "姜武-顾辉",
+            "Title": "物理与我  14",
+            "Image": "img/physics_and_me.jpg",
+            "Classification": "Upcoming",
+            "StartTime": "7:30 PM"
+        },
+        {
+            "Date": "6/7/24",
+            "Speaker": "马京昇",
+            "Title": "走马观博 -- 博物馆参观游记",
+            "Image": "img/museum.jpg",
+            "Classification": "Upcoming",
+            "StartTime": "7:30 PM"
+        },
+        {
+            "Date": "6/14/24",
+            "Speaker": "All",
+            "Title": "Anniversary  Virtual Party",
             "Classification": "Upcoming",
             "StartTime": "7:30 PM"
         }
-    ]
+    ];
