@@ -1,7 +1,8 @@
-var version = "24.04.02";
+var version = "24.05.01";
 
 var seminars = 
 [
+
         {
             "Date": "6/22/20",
             "Speaker": "贺敏",
@@ -1260,7 +1261,9 @@ var seminars =
             "Title": "八十里路云和月--漫谈全马/半马长跑运动",
             "Image": "img/marathon.jpg",
             "Classification": "HWealth",
-            "Slide": "https://docs.google.com/presentation/d/1d8KrxtHYfhcrGPgJhYQmyWVBy1dNUhrP/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true"
+            "Slide": "https://docs.google.com/presentation/d/1d8KrxtHYfhcrGPgJhYQmyWVBy1dNUhrP/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true",
+            "Video": "https://drive.google.com/file/d/1foeOFkIm4R5CU5oIZ1nVbMKXl2_vD80V/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1ECUFQh2C4_7reXPWCjtQToLZ3nLAnGYZ/view?usp=sharing"
         },
         {
             "Date": "2/23/24",
@@ -1268,7 +1271,9 @@ var seminars =
             "Title": "退休生活论坛（4）",
             "Image": "img/retirement.jpg",
             "Classification": "Experience",
-            "Slide": "https://drive.google.com/file/d/1MumJ_IiICBUodOfEF4eltzCy3WMhClVA/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/1MumJ_IiICBUodOfEF4eltzCy3WMhClVA/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1HDlIwOP3GWZqIcDJCTLEBDPqhTsuxplE/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1rh0PWX_-7E3Vm4pMSd4cA403X1lEEIrN/view?usp=sharing"
         },
         {
             "Date": "3/1/24",
@@ -1276,7 +1281,9 @@ var seminars =
             "Title": "Climb Mount Kilimanjaro",
             "Image": "img/kilimanjaro.jpg",
             "Classification": "Hobby",
-            "Slide": "https://drive.google.com/file/d/1O8YxY0NEY3oSt1jjRKhu7ev9y_P1hDEm/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/1O8YxY0NEY3oSt1jjRKhu7ev9y_P1hDEm/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1VxYuX-5wfkFZBg8CkvMzH0JfBdyX4N8z/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/10Db8r_fs6RLupNDgKApBOsILP5msxVTQ/view?usp=sharing"
         },
         {
             "Date": "3/8/24",
@@ -1284,7 +1291,9 @@ var seminars =
             "Title": "退休旅行生活",
             "Image": "img/retirement_travel.jpg",
             "Classification": "Experience",
-            "Slide": "https://drive.google.com/file/d/13HqoqZEj7c2K4N3YnQBpKt-btLXjDJ9x/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/13HqoqZEj7c2K4N3YnQBpKt-btLXjDJ9x/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1abfr7PYUbxUdQhKYR9GA0R_g3ZErMUmr/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1vx3PLjTRetQd3eMI-KQDycXbGuZ_8UGk/view?usp=sharing"
         },
         {
             "Date": "3/15/24",
@@ -1292,7 +1301,9 @@ var seminars =
             "Title": "自驾坦克500越野无人区",
             "Image": "img/tank500.jpg",
             "Classification": "Hobby",
-            "Slide": "https://drive.google.com/file/d/1bH1D6sClSYLXAI14ZDy1gtnJSwano1kR/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/1bH1D6sClSYLXAI14ZDy1gtnJSwano1kR/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1eo_qX39fATsji9Vd8ZbHA-0STBap-W91/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/19JLXriGntUVoIG8RpRdutG8Qh2Q8wxIm/view?usp=sharing"
         },
         {
             "Date": "4/5/24",
@@ -1300,7 +1311,9 @@ var seminars =
             "Title": "Musical Beatuies in Miraculous Unison 名曲欣赏： 莫扎特第41号交响曲",
             "Image": "img/mozart_no41.jpg",
             "Classification": "Hobby",
-            "Slide": "https://drive.google.com/file/d/1AhHZViX0sZFYuM125PicOjI8jngp5TOW/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/1AhHZViX0sZFYuM125PicOjI8jngp5TOW/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1f-lMES8w5CMiBJhB7Jylt4MvmwzR_DHx/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1xpVLWSbK05qRqyROPsw4nCcidGEy05LZ/view?usp=sharing"
         },
         {
             "Date": "4/26/24",
@@ -1308,7 +1321,9 @@ var seminars =
             "Title": "攀岩运动介绍",
             "Image": "img/rock_climbing.jpg",
             "Classification": "Hobby",
-            "Slide": "https://drive.google.com/file/d/17AR1gvuBHuRLVQsuyF7kfQ0avA1EVOkG/view?usp=sharing"
+            "Slide": "https://drive.google.com/file/d/17AR1gvuBHuRLVQsuyF7kfQ0avA1EVOkG/view?usp=sharing",
+            "Video": "https://drive.google.com/file/d/1jUfH1zeiLVJ2YfuElAnUgE_KJEIwE8AV/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1_rrlmi5V1TfUYgxyqVlSkld8xL9I5xQq/view?usp=sharing"
         },
         {
             "Date": "5/10/24",
