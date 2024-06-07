@@ -1,4 +1,4 @@
-var version = "24.05.01";
+var version = "24.06.01";
 
 var seminars = 
 [
@@ -1330,16 +1330,18 @@ var seminars =
             "Speaker": "张越",
             "Title": "好山好水 8 Fall Colors： New England",
             "Image": "img/fall_colors_new_england.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "Hobby",
+            "Video": "https://drive.google.com/file/d/1nvXZSpof6ajVDbAcNrOzq51LjZMAiEoL/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1iYMGenoCvhbM3fAyBiBMIJ7-PK2FX0gB/view?usp=sharing"
         },
         {
             "Date": "5/24/24",
             "Speaker": "姜武-顾辉",
             "Title": "物理与我  14",
             "Image": "img/physics_and_me.jpg",
-            "Classification": "Upcoming",
-            "StartTime": "7:30 PM"
+            "Classification": "PhycsAndMe",
+            "Video": "https://drive.google.com/file/d/1majEEY8J1JuGgOGJpr214aeXY6A4fSq4/view?usp=sharing",
+            "Audio": "https://drive.google.com/file/d/1-TO9F3rTl3Y6VE5aMqE9NkNzeZet8eih/view?usp=sharing"
         },
         {
             "Date": "6/7/24",
