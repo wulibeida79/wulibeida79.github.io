@@ -1,5 +1,5 @@
 
-var version = "24.06.09";
+var version = "24.06.10";
 
 var seminars = [
     {
@@ -1330,6 +1330,7 @@ var seminars = [
         "Title": "好山好水 8 Fall Colors： New England",
         "Image": "img/fall_colors_new_england.jpg",
         "Classification": "Hobby",
+        "Slide": "https://drive.google.com/file/d/1IfbiI39aMw2yLejaWvbV-Tkb6ZYqzzuS/view?usp=sharing",
         "Video": "https://drive.google.com/file/d/1nvXZSpof6ajVDbAcNrOzq51LjZMAiEoL/view?usp=sharing",
         "Audio": "https://drive.google.com/file/d/1iYMGenoCvhbM3fAyBiBMIJ7-PK2FX0gB/view?usp=sharing"
     },
