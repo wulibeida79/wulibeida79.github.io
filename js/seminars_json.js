@@ -1,5 +1,5 @@
 
-var version = "24.06.10";
+var version = "24.07.01";
 
 var seminars = [
     {
@@ -1349,14 +1349,15 @@ var seminars = [
         "Title": "走马观博 -- 博物馆参观游记",
         "Image": "img/museum.jpg",
         "Classification": "Hobby",
-        "Slide": "https://drive.google.com/file/d/1VlIAtCZdzrrzizKm2lkCkX_82W_t7ihM/view?usp=sharing"
+        "Slide": "https://drive.google.com/file/d/1VlIAtCZdzrrzizKm2lkCkX_82W_t7ihM/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1Ji3EHNYnfxk4ct2Gnh5f1kohwWXigOX6/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1hUSNRk8mPKnNwKGIdylBcTKVWFtc9HN9/view?usp=sharing"
     },
     {
         "Date": "2024-06-14",
         "Speaker": "All",
         "Title": "Anniversary  Virtual Party",
         "Image": "img/party.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby"
     }
 ];
