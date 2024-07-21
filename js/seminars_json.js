@@ -1,5 +1,5 @@
 
-var version = "24.07.01";
+var version = "24.07.21";
 
 var seminars = [
     {
@@ -1359,5 +1359,45 @@ var seminars = [
         "Title": "Anniversary  Virtual Party",
         "Image": "img/party.jpg",
         "Classification": "Hobby"
+    },
+    {
+        "Date": "2024-07-26",
+        "Speaker": "万维钢",
+        "Title": "AI 奇点降至？",
+        "Image": "img/AI奇点.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-08-09",
+        "Speaker": "吴鹏",
+        "Title": "比才和他的歌剧《卡门》",
+        "Image": "img/Opera-Carmen.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-08-23",
+        "Speaker": "苏玻",
+        "Title": "Surprise Topic",
+        "Image": "img/suprise.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-09-06",
+        "Speaker": "彭松石",
+        "Title": "National Association of Realtors Settlement and Impacts",
+        "Image": "img/NAR-settlement-impact.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-09-20",
+        "Speaker": "赵书来",
+        "Title": "Jazz， UltimateAmerican Art Form 1:  an Emotion Conduit",
+        "Image": "img/jazz.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
     }
 ];
