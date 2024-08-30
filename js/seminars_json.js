@@ -1,5 +1,5 @@
 
-var version = "24.07.21";
+var version = "24.08.29";
 
 var seminars = [
     {
@@ -1365,24 +1365,28 @@ var seminars = [
         "Speaker": "万维钢",
         "Title": "AI 奇点降至？",
         "Image": "img/AI奇点.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Technology",
+        "Video": "https://drive.google.com/file/d/15E2JeMmO88Uq6BTzopYpKA53qP-Wt3wC/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1bVpg6sKSiF6s-sWR2xa5yLrzFH702mOv/view?usp=sharing",
+        "Abstract": "物理博士， 著名科普畅销书作家，得到APP《精英日课》专栏作家"
     },
     {
         "Date": "2024-08-09",
         "Speaker": "吴鹏",
         "Title": "比才和他的歌剧《卡门》",
         "Image": "img/Opera-Carmen.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1tsBLYmPLeryg6eZnkbqjSFWZumnHLA6v/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/17kWjulICpxc-TtfSNyCA2UO-0Vutg5rU/view?usp=sharing"
     },
     {
         "Date": "2024-08-23",
         "Speaker": "苏玻",
         "Title": "Surprise Topic",
         "Image": "img/suprise.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Experience",
+        "Video": "https://drive.google.com/file/d/1bAEN5lZrCAwWrvQwrCsCdt2ChYOJud5A/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/12q6WI1EzH89J5bGpXVNpkATvK1v8Y2Se/view?usp=sharing"
     },
     {
         "Date": "2024-09-06",
@@ -1393,9 +1397,18 @@ var seminars = [
         "StartTime": "19:30:00"
     },
     {
+        "Date": "2024-09-14",
+        "Speaker": "李惠南",
+        "Title": "老年痴呆和干细胞研究最新进展",
+        "Image": "img/stemcells.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00",
+        "Abstract": "Group lead in Neuroscience, UCSF基因筛查中心， 分别师从老年痴呆研究和干细胞研究获得者"
+    },
+    {
         "Date": "2024-09-20",
         "Speaker": "赵书来",
-        "Title": "Jazz， UltimateAmerican Art Form 1:  an Emotion Conduit",
+        "Title": "Jazz， Ultimate American Art Form 1:  an Emotion Conduit",
         "Image": "img/jazz.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
