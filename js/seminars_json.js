@@ -1,5 +1,5 @@
 
-var version = "24.08.29";
+var version = "24.09.02";
 
 var seminars = [
     {
@@ -1385,6 +1385,7 @@ var seminars = [
         "Title": "Surprise Topic",
         "Image": "img/suprise.jpg",
         "Classification": "Experience",
+        "Slide": "https://drive.google.com/file/d/138KoqMJ1QrnO7zjsMOLWaL5P3U8eWB1I/view?usp=sharing",
         "Video": "https://drive.google.com/file/d/1bAEN5lZrCAwWrvQwrCsCdt2ChYOJud5A/view?usp=sharing",
         "Audio": "https://drive.google.com/file/d/12q6WI1EzH89J5bGpXVNpkATvK1v8Y2Se/view?usp=sharing"
     },
