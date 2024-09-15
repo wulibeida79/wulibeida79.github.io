@@ -1,5 +1,5 @@
 
-var version = "24.09.02";
+var version = "24.09.15";
 
 var seminars = [
     {
@@ -1394,16 +1394,14 @@ var seminars = [
         "Speaker": "彭松石",
         "Title": "National Association of Realtors Settlement and Impacts",
         "Image": "img/NAR-settlement-impact.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "HWealth"
     },
     {
         "Date": "2024-09-14",
         "Speaker": "李惠南",
         "Title": "老年痴呆和干细胞研究最新进展",
         "Image": "img/stemcells.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00",
+        "Classification": "HWealth",
         "Abstract": "Group lead in Neuroscience, UCSF基因筛查中心， 分别师从老年痴呆研究和干细胞研究获得者"
     },
     {
@@ -1411,6 +1409,38 @@ var seminars = [
         "Speaker": "赵书来",
         "Title": "Jazz， Ultimate American Art Form 1:  an Emotion Conduit",
         "Image": "img/jazz.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-10-04",
+        "Speaker": "甘舒",
+        "Title": "历史15: 以色列历史-1",
+        "Image": "img/israel_his_1.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-10-18",
+        "Speaker": "甘舒",
+        "Title": "历史16:以色列历史-2",
+        "Image": "img/israel_history.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-11-01",
+        "Speaker": "陈焕",
+        "Title": "退休后旅居生活， 从沿海到边陲，从繁华到中国最大无人区",
+        "Image": "img/roadtrip.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-11-15",
+        "Speaker": "Dave Vrane",
+        "Title": "Recreational Auto Racing",
+        "Image": "img/auto_racing.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
