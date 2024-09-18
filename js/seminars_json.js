@@ -1,5 +1,5 @@
 
-var version = "24.09.15";
+var version = "24.09.18";
 
 var seminars = [
     {
@@ -1407,7 +1407,7 @@ var seminars = [
     {
         "Date": "2024-09-20",
         "Speaker": "赵书来",
-        "Title": "Jazz， Ultimate American Art Form 1:  an Emotion Conduit",
+        "Title": "Jazz， the Ultimate American Art Form 1:  an Emotion Conduit",
         "Image": "img/jazz.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
@@ -1430,9 +1430,9 @@ var seminars = [
     },
     {
         "Date": "2024-11-01",
-        "Speaker": "陈焕",
-        "Title": "退休后旅居生活， 从沿海到边陲，从繁华到中国最大无人区",
-        "Image": "img/roadtrip.jpg",
+        "Speaker": "赵书来",
+        "Title": "Jazz, the Ultimate American Art Form 2: a Freedom Rider",
+        "Image": "img/jazz2.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     },
