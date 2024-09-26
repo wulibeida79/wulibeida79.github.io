@@ -1413,6 +1413,7 @@ var seminars = [
         "Title": "Jazz， the Ultimate American Art Form 1:  an Emotion Conduit",
         "Image": "img/jazz.jpg",
         "Classification": "Hobby",
+        "Slide": "https://drive.google.com/file/d/1Kyoh20X85l7786qwz5eId_FodzU84KzQ/view?usp=sharing",
         "Video": "https://drive.google.com/file/d/1gF0yns8Z-adP0_bRPHtRIe_sgAHGC09Y/view?usp=sharing",
         "Audio": "https://drive.google.com/file/d/16EJyaUK9831twf4ll7ojmET_dG0CfM3z/view?usp=sharing"
     },
