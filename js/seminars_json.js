@@ -1,5 +1,5 @@
 
-var version = "24.09.18";
+var version = "24.09.26";
 
 var seminars = [
     {
@@ -1398,19 +1398,23 @@ var seminars = [
     },
     {
         "Date": "2024-09-14",
-        "Speaker": "李惠南",
+        "Speaker": "李惠男 （Marcus Li， Ph D）",
         "Title": "老年痴呆和干细胞研究最新进展",
         "Image": "img/stemcells.jpg",
         "Classification": "HWealth",
-        "Abstract": "Group lead in Neuroscience, UCSF基因筛查中心， 分别师从老年痴呆研究和干细胞研究获得者"
+        "Slide": "https://docs.google.com/presentation/d/1kjyX0wIGj-sjcAHYLY-NNhSr2-n4u82S/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true",
+        "Video": "https://drive.google.com/file/d/1XxnSR5Gvvg744zjIJp-g_6IcEjspNv1i/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1imzHHxtrqU6HH2Ugm1Hpvqcv3P0q0Ont/view?usp=sharing",
+        "Abstract": "Group lead in Neuroscience, UCSF基因筛查中心， 从事老年痴呆研究和干细胞研究， 师从两个领域的诺贝尔奖获得者"
     },
     {
         "Date": "2024-09-20",
         "Speaker": "赵书来",
         "Title": "Jazz， the Ultimate American Art Form 1:  an Emotion Conduit",
         "Image": "img/jazz.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1gF0yns8Z-adP0_bRPHtRIe_sgAHGC09Y/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/16EJyaUK9831twf4ll7ojmET_dG0CfM3z/view?usp=sharing"
     },
     {
         "Date": "2024-10-04",
