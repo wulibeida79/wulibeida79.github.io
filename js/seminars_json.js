@@ -1,5 +1,5 @@
 
-var version = "24.09.26";
+var version = "24.10.06";
 
 var seminars = [
     {
@@ -1422,8 +1422,10 @@ var seminars = [
         "Speaker": "甘舒",
         "Title": "历史15: 以色列历史-1",
         "Image": "img/israel_his_1.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "History",
+        "Slide": "https://drive.google.com/file/d/1rEd0Re54mz0enuj8bCiFh3rwHA47XfCu/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1uefrX2lyhdhbPOps9usCFw6t-VgdoGl6/view?usp=drive_link",
+        "Audio": "https://drive.google.com/file/d/1CZpHaEYBZdiKOZ7tkSodUJ1MrwApP0BF/view?usp=sharing"
     },
     {
         "Date": "2024-10-18",
