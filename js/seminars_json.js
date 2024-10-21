@@ -1,5 +1,5 @@
 
-var version = "24.10.06";
+var version = "24.10.21";
 
 var seminars = [
     {
@@ -1421,7 +1421,7 @@ var seminars = [
         "Date": "2024-10-04",
         "Speaker": "甘舒",
         "Title": "历史15: 以色列历史-1",
-        "Image": "img/israel_his_1.jpg",
+        "Image": "img/israelhistory_1.jpg",
         "Classification": "History",
         "Slide": "https://drive.google.com/file/d/1rEd0Re54mz0enuj8bCiFh3rwHA47XfCu/view?usp=sharing",
         "Video": "https://drive.google.com/file/d/1uefrX2lyhdhbPOps9usCFw6t-VgdoGl6/view?usp=drive_link",
@@ -1431,9 +1431,11 @@ var seminars = [
         "Date": "2024-10-18",
         "Speaker": "甘舒",
         "Title": "历史16:以色列历史-2",
-        "Image": "img/israel_history.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Image": "img/israelhistory_2.jpg",
+        "Classification": "History",
+        "Slide": "https://drive.google.com/file/d/1vveFppofSbpCfcvUDZFxcApRvjnlfxwZ/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1cU45JweWvdkd6LJp5hCnVBMi9h__ZSVt/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1uDHn-1NvaKcAkOGJE2sqlie1-sKXwwmi/view?usp=sharing"
     },
     {
         "Date": "2024-11-01",
@@ -1448,6 +1450,14 @@ var seminars = [
         "Speaker": "Dave Vrane",
         "Title": "Recreational Auto Racing",
         "Image": "img/auto_racing.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2024-12-13",
+        "Speaker": "彭松石",
+        "Title": "天文 3",
+        "Image": "img/astronomy3.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
