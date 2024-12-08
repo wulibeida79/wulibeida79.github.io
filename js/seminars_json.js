@@ -1,5 +1,5 @@
 
-var version = "24.10.21";
+var version = "24.12.07";
 
 var seminars = [
     {
@@ -1442,22 +1442,54 @@ var seminars = [
         "Speaker": "赵书来",
         "Title": "Jazz, the Ultimate American Art Form 2: a Freedom Rider",
         "Image": "img/jazz2.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Slide": "https://drive.google.com/file/d/1LmHG8xGkfzdHotG3otUN5AWNG35KFKi4/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1WJ50WB2SARj-GEoFfLJQCuFgqsnqXZJr/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1DN3BZNtkXseE0CxtWLzmePr_5Npwn_gQ/view?usp=sharing"
     },
     {
         "Date": "2024-11-15",
         "Speaker": "Dave Vrane",
         "Title": "Recreational Auto Racing",
         "Image": "img/auto_racing.jpg",
+        "Classification": "Hobby"
+    },
+    {
+        "Date": "2024-11-22",
+        "Speaker": "All",
+        "Title": "回忆赵凯华老师和我们度过的岁月",
+        "Image": "img/memorial_flowers.jpg",
+        "Classification": "Experience"
+    },
+    {
+        "Date": "2024-12-13",
+        "Speaker": "陈焕",
+        "Title": "退休后的旅居生活， 从沿海到边陲， 从繁华到中国最大的无人区",
+        "Image": "img/旅居生活.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     },
     {
-        "Date": "2024-12-13",
+        "Date": "2025-01-10",
+        "Speaker": "何晖",
+        "Title": "古寨静谧如画卷，寻访村民烟火间",
+        "Image": "img/古寨.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-01-24",
         "Speaker": "彭松石",
         "Title": "天文 3",
         "Image": "img/astronomy3.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-02-07",
+        "Speaker": "Nicole He （贺敏女儿）",
+        "Title": "My Journey to become an indie game creative director",
+        "Image": "img/crush_house_2.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
