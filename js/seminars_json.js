@@ -1,5 +1,5 @@
 
-var version = "24.12.07";
+var version = "24.12.09";
 
 var seminars = [
     {
@@ -1452,7 +1452,8 @@ var seminars = [
         "Speaker": "Dave Vrane",
         "Title": "Recreational Auto Racing",
         "Image": "img/auto_racing.jpg",
-        "Classification": "Hobby"
+        "Classification": "Hobby",
+        "Slide": "https://drive.google.com/file/d/1Lwskc23BNRQ4S6KECppFUz8sKtODtVPy/view?usp=sharing"
     },
     {
         "Date": "2024-11-22",
