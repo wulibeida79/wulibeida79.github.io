@@ -1,5 +1,5 @@
 
-var version = "24.12.09";
+var version = "24.12.20";
 
 var seminars = [
     {
@@ -1453,22 +1453,27 @@ var seminars = [
         "Title": "Recreational Auto Racing",
         "Image": "img/auto_racing.jpg",
         "Classification": "Hobby",
-        "Slide": "https://drive.google.com/file/d/1Lwskc23BNRQ4S6KECppFUz8sKtODtVPy/view?usp=sharing"
+        "Slide": "https://drive.google.com/file/d/1VxTzegXnAcdvenncMRvRYdnj2yruwAJQ/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1Ae6plUc56Ndu3dfFzudzYYWrTUQb5fEZ/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/16HmXfjAqYaWFXMFTMbB6LiXGosziqRuX/view?usp=sharing"
     },
     {
         "Date": "2024-11-22",
         "Speaker": "All",
         "Title": "回忆赵凯华老师和我们度过的岁月",
         "Image": "img/memorial_flowers.jpg",
-        "Classification": "Experience"
+        "Classification": "Experience",
+        "Video": "https://drive.google.com/file/d/1VxTzegXnAcdvenncMRvRYdnj2yruwAJQ/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1m8MgvkvpaaKnHQiyt2rFZ-rwNAg9MXu5/view?usp=sharing"
     },
     {
         "Date": "2024-12-13",
         "Speaker": "陈焕",
         "Title": "退休后的旅居生活， 从沿海到边陲， 从繁华到中国最大的无人区",
         "Image": "img/旅居生活.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1zyy0Y8DPUwNufT1xqgq7LculX6EqSAZ3/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1rZiV7kJSNPMBM6EOTV8IiTzFsDa1-cgQ/view?usp=sharing"
     },
     {
         "Date": "2025-01-10",
@@ -1491,6 +1496,14 @@ var seminars = [
         "Speaker": "Nicole He （贺敏女儿）",
         "Title": "My Journey to become an indie game creative director",
         "Image": "img/crush_house_2.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-02-15",
+        "Speaker": "渠志灿博士",
+        "Title": "漫谈纳安抗癌新药的发展历程",
+        "Image": "img/纳安抗癌药物.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
