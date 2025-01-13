@@ -1,5 +1,5 @@
 
-var version = "24.12.20";
+var version = "25.01.13";
 
 var seminars = [
     {
@@ -1477,11 +1477,10 @@ var seminars = [
     },
     {
         "Date": "2025-01-10",
-        "Speaker": "何晖",
-        "Title": "古寨静谧如画卷，寻访村民烟火间",
-        "Image": "img/古寨.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Speaker": "甘舒，马京生，何晖，贺敏",
+        "Title": "Holiday Experience Sharing 1： Australia， China， Key West",
+        "Image": "img/vacation.jpg",
+        "Classification": "Experience"
     },
     {
         "Date": "2025-01-24",
@@ -1492,18 +1491,26 @@ var seminars = [
         "StartTime": "19:30:00"
     },
     {
-        "Date": "2025-02-07",
-        "Speaker": "Nicole He （贺敏女儿）",
-        "Title": "My Journey to become an indie game creative director",
-        "Image": "img/crush_house_2.jpg",
+        "Date": "2024-02-07",
+        "Speaker": "何晖",
+        "Title": "古寨静谧如画卷，寻访村民烟火间",
+        "Image": "img/古寨.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     },
     {
-        "Date": "2025-02-15",
+        "Date": "2025-02-21",
         "Speaker": "渠志灿博士",
         "Title": "漫谈纳安抗癌新药的发展历程",
         "Image": "img/纳安抗癌药物.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-03-07",
+        "Speaker": "张越， 郭信生， 贺敏",
+        "Title": "Holiday Experience Sharing 2： Japan,  Thailand, Malaysia, Vietnam",
+        "Image": "img/vacation.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
