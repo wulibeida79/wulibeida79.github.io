@@ -1,5 +1,5 @@
 
-var version = "25.01.13";
+var version = "25.02.26";
 
 var seminars = [
     {
@@ -1480,31 +1480,31 @@ var seminars = [
         "Speaker": "甘舒，马京生，何晖，贺敏",
         "Title": "Holiday Experience Sharing 1： Australia， China， Key West",
         "Image": "img/vacation.jpg",
-        "Classification": "Experience"
+        "Classification": "Experience",
+        "Video": "https://drive.google.com/file/d/1zFbwPYOmEm_ZWZufI--kmHDSrexBxanj/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1AjN265P6piJZT3giFxbIY0kG1Om_-mtO/view?usp=sharing"
     },
     {
         "Date": "2025-01-24",
         "Speaker": "彭松石",
         "Title": "天文 3",
         "Image": "img/astronomy3.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby"
     },
     {
-        "Date": "2024-02-07",
+        "Date": "2025-02-07",
         "Speaker": "何晖",
         "Title": "古寨静谧如画卷，寻访村民烟火间",
         "Image": "img/古寨.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby"
     },
     {
         "Date": "2025-02-21",
-        "Speaker": "渠志灿博士",
-        "Title": "漫谈纳安抗癌新药的发展历程",
-        "Image": "img/纳安抗癌药物.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Speaker": "贺敏 （Moderator）",
+        "Title": "Group Discussion： AI Showdown",
+        "Image": "img/llm.jpg",
+        "Classification": "Technology",
+        "Slide": "https://docs.google.com/presentation/d/1BlgSDMJ9v1wPUAwnHFZS4n5cDc6EPOoy/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true"
     },
     {
         "Date": "2025-03-07",
@@ -1513,5 +1513,44 @@ var seminars = [
         "Image": "img/vacation.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-03-14",
+        "Speaker": "Nicole He (贺敏女儿）",
+        "Title": "My Journey to become an indie game creative director",
+        "Image": "img/crush_house_2.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-03-21",
+        "Speaker": "林锦云",
+        "Title": "退休理财",
+        "Image": "img/retirement_and_money.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-04-04",
+        "Speaker": "赵书来",
+        "Title": "Jazz, the Ultimate American Art Form 3: American Fingerprints in World Music -- Rhapsody in Blue",
+        "Image": "img/Rhapsody_in_Blue.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-04-18",
+        "Speaker": "渠志灿博士",
+        "Title": "漫谈纳安抗癌新药的发展历程",
+        "Image": "img/纳安抗癌药物.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-05-02",
+        "Speaker": "张越",
+        "Title": "DIY Camper Van V2",
+        "Image": "img/sprinter.jpg",
+        "Classification": "Upcoming"
     }
 ];
