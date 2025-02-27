@@ -1,5 +1,5 @@
 
-var version = "25.02.26";
+var version = "25.02.27";
 
 var seminars = [
     {
@@ -1489,14 +1489,18 @@ var seminars = [
         "Speaker": "彭松石",
         "Title": "天文 3",
         "Image": "img/astronomy3.jpg",
-        "Classification": "Hobby"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1fcQcC1NSq-74HNmGi-Vde6nV_Dm34WQN/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/11LF2_2vKLK9832x8LGPGL9DFqAZI6Loq/view?usp=sharing"
     },
     {
         "Date": "2025-02-07",
         "Speaker": "何晖",
         "Title": "古寨静谧如画卷，寻访村民烟火间",
         "Image": "img/古寨.jpg",
-        "Classification": "Hobby"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1eloHOekOYm1MbShS3XnZkgJdclMQi17Z/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1xjNxuzt7z2ya5J0dRt_nEErqiuOqmJEM/view?usp=sharing"
     },
     {
         "Date": "2025-02-21",
@@ -1504,7 +1508,9 @@ var seminars = [
         "Title": "Group Discussion： AI Showdown",
         "Image": "img/llm.jpg",
         "Classification": "Technology",
-        "Slide": "https://docs.google.com/presentation/d/1BlgSDMJ9v1wPUAwnHFZS4n5cDc6EPOoy/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true"
+        "Slide": "https://docs.google.com/presentation/d/1BlgSDMJ9v1wPUAwnHFZS4n5cDc6EPOoy/edit?usp=sharing&ouid=118189640657796082890&rtpof=true&sd=true",
+        "Video": "https://drive.google.com/file/d/1DEuk0pPNqYTHiX7VtiL2vArIJGZATNds/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1K0iJOXclz38HLrYaZ75oh2a6iA3WkIw8/view?usp=sharing"
     },
     {
         "Date": "2025-03-07",
