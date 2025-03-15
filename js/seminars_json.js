@@ -1,5 +1,5 @@
 
-var version = "25.02.27";
+var version = "25.03.15";
 
 var seminars = [
     {
@@ -1517,16 +1517,7 @@ var seminars = [
         "Speaker": "张越， 郭信生， 贺敏",
         "Title": "Holiday Experience Sharing 2： Japan,  Thailand, Malaysia, Vietnam",
         "Image": "img/vacation.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
-    },
-    {
-        "Date": "2025-03-14",
-        "Speaker": "Nicole He (贺敏女儿）",
-        "Title": "My Journey to become an indie game creative director",
-        "Image": "img/crush_house_2.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Experience"
     },
     {
         "Date": "2025-03-21",
@@ -1554,9 +1545,18 @@ var seminars = [
     },
     {
         "Date": "2025-05-02",
-        "Speaker": "张越",
-        "Title": "DIY Camper Van V2",
-        "Image": "img/sprinter.jpg",
-        "Classification": "Upcoming"
+        "Speaker": "Nicole He (贺敏女儿）",
+        "Title": "My Journey to become an indie game creative director",
+        "Image": "img/crush_house_2.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-05-16",
+        "Speaker": "洪漪",
+        "Title": "医疗与大健康数据中的词汇控制和术语标准",
+        "Image": "img/医学词汇标准.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
     }
 ];
