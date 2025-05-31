@@ -1,5 +1,5 @@
 
-var version = "25.03.15";
+var version = "25.05.30";
 
 var seminars = [
     {
@@ -1524,38 +1524,60 @@ var seminars = [
         "Speaker": "林锦云",
         "Title": "退休理财",
         "Image": "img/retirement_and_money.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hwealth"
     },
     {
         "Date": "2025-04-04",
         "Speaker": "赵书来",
         "Title": "Jazz, the Ultimate American Art Form 3: American Fingerprints in World Music -- Rhapsody in Blue",
         "Image": "img/Rhapsody_in_Blue.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Slide": "https://drive.google.com/file/d/1p368s1LuJMDpdlnUNCMb4Vop8XBr7GLd/view?usp=sharing",
+        "Video": "https://drive.google.com/file/d/1NMKsJt-pR8z8OEZoh4O9U8zQ9ghtofwE/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1i5qOlVNie3V4gm83-JmcVRsQ7nFBtSF5/view?usp=drive_link"
     },
     {
         "Date": "2025-04-18",
         "Speaker": "渠志灿博士",
         "Title": "漫谈纳安抗癌新药的发展历程",
         "Image": "img/纳安抗癌药物.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Technology"
     },
     {
         "Date": "2025-05-02",
         "Speaker": "Nicole He (贺敏女儿）",
         "Title": "My Journey to become an indie game creative director",
         "Image": "img/crush_house_2.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Experience"
     },
     {
         "Date": "2025-05-16",
         "Speaker": "洪漪",
         "Title": "医疗与大健康数据中的词汇控制和术语标准",
         "Image": "img/医学词汇标准.jpg",
+        "Classification": "Technology"
+    },
+    {
+        "Date": "2025-05-30",
+        "Speaker": "张越",
+        "Title": "Camper 2",
+        "Image": "img/campervan_2.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-06-06",
+        "Speaker": "林锦云",
+        "Title": "退休理财",
+        "Image": "img/retirement_finance.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
+    },
+    {
+        "Date": "2025-06-13",
+        "Speaker": "All",
+        "Title": "讲座五周年座谈",
+        "Image": "img/5-year.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
