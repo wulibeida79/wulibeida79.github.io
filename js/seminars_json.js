@@ -1,5 +1,5 @@
 
-var version = "25.05.30";
+var version = "25.07.14";
 
 var seminars = [
     {
@@ -1358,7 +1358,7 @@ var seminars = [
         "Speaker": "All",
         "Title": "Anniversary  Virtual Party",
         "Image": "img/party.jpg",
-        "Classification": "Hobby"
+        "Classification": "Experience"
     },
     {
         "Date": "2024-07-26",
@@ -1541,43 +1541,56 @@ var seminars = [
         "Speaker": "渠志灿博士",
         "Title": "漫谈纳安抗癌新药的发展历程",
         "Image": "img/纳安抗癌药物.jpg",
-        "Classification": "Technology"
+        "Classification": "Technology",
+        "Video": "https://drive.google.com/file/d/1iRjTAlbIF1T-1Mawyl8b0wjya8UMS44Z/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1aPgghDAzmgi9_znt4qbj4Osi-bGyBrQu/view?usp=sharing"
     },
     {
         "Date": "2025-05-02",
         "Speaker": "Nicole He (贺敏女儿）",
         "Title": "My Journey to become an indie game creative director",
         "Image": "img/crush_house_2.jpg",
-        "Classification": "Experience"
+        "Classification": "Experience",
+        "Video": "https://drive.google.com/file/d/1Z8vQ9hkUCHWtQN6tkgKqPjKlqhQEplpy/view?usp=drive_link",
+        "Audio": "https://drive.google.com/file/d/1AbOBQUBawOiRZBLGEmfo4s9PdwlFSh0I/view?usp=sharing"
     },
     {
         "Date": "2025-05-16",
         "Speaker": "洪漪",
         "Title": "医疗与大健康数据中的词汇控制和术语标准",
         "Image": "img/医学词汇标准.jpg",
-        "Classification": "Technology"
+        "Classification": "Technology",
+        "Video": "https://drive.google.com/file/d/1zcHVGAEUKRxnoChsPnXhMhu29HRkaKC6/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1vVQdYG6IqsLbaLPI6rfr_RNRn_5wxAcv/view?usp=sharing"
     },
     {
         "Date": "2025-05-30",
         "Speaker": "张越",
         "Title": "Camper 2",
         "Image": "img/campervan_2.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hobby",
+        "Video": "https://drive.google.com/file/d/1upA6nScEMGQ2b8w_5q6xKyDxnh23vB3y/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1hLfia8hRlV7Zo7WHQiS_fTPTwEOs9nrc/view?usp=sharing"
     },
     {
         "Date": "2025-06-06",
         "Speaker": "林锦云",
         "Title": "退休理财",
         "Image": "img/retirement_finance.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "Hwealth"
     },
     {
         "Date": "2025-06-13",
         "Speaker": "All",
         "Title": "讲座五周年座谈",
         "Image": "img/5-year.jpg",
+        "Classification": "Experience"
+    },
+    {
+        "Date": "2025-08-14",
+        "Speaker": "吴珊",
+        "Title": "健康的未来--自我健康管理",
+        "Image": "img/healthy_food.jpg",
         "Classification": "Upcoming",
         "StartTime": "19:30:00"
     }
