@@ -1,5 +1,5 @@
 
-var version = "25.07.14";
+var version = "25.09.03";
 
 var seminars = [
     {
@@ -1524,7 +1524,7 @@ var seminars = [
         "Speaker": "林锦云",
         "Title": "退休理财",
         "Image": "img/retirement_and_money.jpg",
-        "Classification": "Hwealth"
+        "Classification": "HWealth"
     },
     {
         "Date": "2025-04-04",
@@ -1577,7 +1577,7 @@ var seminars = [
         "Speaker": "林锦云",
         "Title": "退休理财",
         "Image": "img/retirement_finance.jpg",
-        "Classification": "Hwealth"
+        "Classification": "HWealth"
     },
     {
         "Date": "2025-06-13",
@@ -1591,7 +1591,8 @@ var seminars = [
         "Speaker": "吴珊",
         "Title": "健康的未来--自我健康管理",
         "Image": "img/healthy_food.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "19:30:00"
+        "Classification": "HWealth",
+        "Video": "https://drive.google.com/file/d/1h43XGnaF_qkZrE9PFijbwkDAmS_-REyH/view?usp=drive_link",
+        "Audio": "https://drive.google.com/file/d/1_w9HYD9vyPPLl-Xk_KdvG_crkdZTZDRn/view?usp=drive_link"
     }
 ];
