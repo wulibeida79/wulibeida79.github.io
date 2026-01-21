@@ -1,5 +1,5 @@
 
-var version = "25.09.03";
+var version = "26.01.20";
 
 var seminars = [
     {
@@ -1594,5 +1594,23 @@ var seminars = [
         "Classification": "HWealth",
         "Video": "https://drive.google.com/file/d/1h43XGnaF_qkZrE9PFijbwkDAmS_-REyH/view?usp=drive_link",
         "Audio": "https://drive.google.com/file/d/1_w9HYD9vyPPLl-Xk_KdvG_crkdZTZDRn/view?usp=drive_link"
+    },
+    {
+        "Date": "2026-11-13",
+        "Speaker": "贺敏（Moderator)",
+        "Title": "Forum Discussion: Life with AI: What's new and how we're making it work for us ",
+        "Image": "img/life-with-ai.jpg",
+        "Classification": "Technology",
+        "Video": "https://drive.google.com/file/d/13Wq7PklMtPhtKiMcuGkh4l1sOw8NDb0P/view?usp=sharing",
+        "Audio": "https://drive.google.com/file/d/1m8jZizdBQVl6oA8OzNiSH1kW4H--Eea4/view?usp=sharing"
+    },
+    {
+        "Date": "2026-02-12",
+        "Speaker": "夏南（物理80）",
+        "Title": "一个基于比特币稀缺性的预测模型",
+        "Image": "img/bitcoin-prediction.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "6:30PM",
+        "Abstract": "夏南，北京大学物理学士、波士顿大学生物医学工程硕士。曾担任美国上市公司GenRad全球副总裁；后任职于硅谷公司Move.com、MKS等，负责数家企业的兼并和收购；2012年回国后入职中信信托产业基金任副总经理；后加入上海子午投资任合伙人"
     }
 ];
