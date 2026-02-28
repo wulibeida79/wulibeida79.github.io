@@ -1,5 +1,5 @@
 
-var version = "26.01.20";
+var version = "26.02.28";
 
 var seminars = [
     {
@@ -1609,8 +1609,15 @@ var seminars = [
         "Speaker": "夏南（物理80）",
         "Title": "一个基于比特币稀缺性的预测模型",
         "Image": "img/bitcoin-prediction.jpg",
-        "Classification": "Upcoming",
-        "StartTime": "6:30PM",
+        "Classification": "Technology",
         "Abstract": "夏南，北京大学物理学士、波士顿大学生物医学工程硕士。曾担任美国上市公司GenRad全球副总裁；后任职于硅谷公司Move.com、MKS等，负责数家企业的兼并和收购；2012年回国后入职中信信托产业基金任副总经理；后加入上海子午投资任合伙人"
+    },
+    {
+        "Date": "2026-03-12",
+        "Speaker": "何晖/彭松石/李兰/甘舒/苏玻",
+        "Title": "The Amazon; New Zealand; 法国南部 Vezere Valley 史前人类洞穴遗址； 国内最新旅游热点-贵州",
+        "Image": "img/travel2.jpg",
+        "Classification": "Upcoming",
+        "StartTime": "19:30:00"
     }
 ];
